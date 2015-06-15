@@ -5,6 +5,6 @@
  
  http://www.freescale.com/webapp/sps/site/prod_summary.jsp?code=FRDM-K64F
  
- ![Alt text](http://static.electronicsweekly.com/gadget-master/wp-content/uploads/sites/4/2014/05/The-FRDM-K64F-Freedom-Development-Platform-for-Kinetis-K64-K63-and-K24-MCUs.jpg "FRDM-K64F")
+ ![FRDM-K64F](http://www.embeddedant.org/bloq/wp-content/uploads/2015/06/FRDM-K64F.jpg "FRDM-K64F")
  
  
